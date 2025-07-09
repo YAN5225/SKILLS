@@ -1,4 +1,5 @@
-# Introduction to GitHub
+
+# Introduction
 
 <!-- ![](https://github.com/YAN5225/SKILLS/actions/workflows/0-start-exercise.yml/badge.svg) -->
 ![](https://github.com/YAN5225/SKILLS/actions/workflows/1-create-a-branch.yml/badge.svg)
